@@ -1,4 +1,4 @@
-#AlgoNavigator — Algorithms & Data Structures Toolkit
+**AlgoNavigator — Algorithms & Data Structures Toolkit
 
 A comprehensive Java project showcasing core algorithms and data structures taught in CS 3364. This repository includes efficient implementations of sorting, searching, recursion, tree operations, and graph-based algorithms, alongside sample inputs, test files, and performance benchmarks.
 
